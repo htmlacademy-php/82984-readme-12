@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Игорь Иванов](https://up.htmlacademy.ru/php/12/user/82984).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Шемин](https://htmlacademy.ru/profile/id1229503).
 
 ---
 
